@@ -10,5 +10,4 @@ export class UserEntity {
 
     @Column()
     ttl: Date
-    
 }
